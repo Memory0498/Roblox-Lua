@@ -1,2 +1,2 @@
-# Disclaimer
-Some scripts may not be supported by some scripting utilities. (Specifically, free scripting utlities.)
+# Advertisement
+Some scripting utilities, specially free ones, may not support the complexity of some scripts
